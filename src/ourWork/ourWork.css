@@ -6,3 +6,29 @@
 .experience_container img {
   width: 250px;
 }
+
+@media screen and (max-width: 1024px) {
+  .experience_container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .experience_container img {
+    width: 13rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .experience_container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .experience_container img {
+    width: 13rem;
+  }
+}

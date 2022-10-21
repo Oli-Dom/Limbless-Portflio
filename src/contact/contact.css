@@ -7,7 +7,22 @@ h2 {
   align-items: center;
   position: absolute;
 }
+@media screen and (max-width: 1024px) {
+  .header_socials {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+  }
+}
 
-.verticalLine {
-  border-right: thick solid #fff;
+@media screen and (max-width: 600px) {
+  .header_socials {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+  }
 }

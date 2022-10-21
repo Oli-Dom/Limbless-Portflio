@@ -6,19 +6,17 @@ const Communication = () => {
   return (
     <>
       <section id="contact">
-        <div className="verticalLine">
-          <div className="header_socials">
-            <a
-              href="https://www.linkedin.com/company/limbless-devs"
-              target="_blank"
-            >
-              <BsLinkedin />
-            </a>
+        <div className="header_socials">
+          <a
+            href="https://www.linkedin.com/company/limbless-devs"
+            target="_blank"
+          >
+            <BsLinkedin />
+          </a>
 
-            <a href="https://discord.gg/Jzy4gqBTuZ" target="_blank">
-              <BsDiscord />
-            </a>
-          </div>
+          <a href="https://discord.gg/Jzy4gqBTuZ" target="_blank">
+            <BsDiscord />
+          </a>
         </div>
       </section>
     </>
