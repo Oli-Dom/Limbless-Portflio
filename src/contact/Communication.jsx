@@ -14,7 +14,7 @@ const Communication = () => {
             <BsLinkedin />
           </a>
 
-          <a href="https://discord.gg/Jzy4gqBTuZ" target="_blank">
+          <a href="#" target="_blank">
             <BsDiscord />
           </a>
         </div>
