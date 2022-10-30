@@ -32,7 +32,7 @@ const about = () => {
           />
           <img
             className="collegeLogo"
-            src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/RIT-Tigers-900x0.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rochester_Institute_of_Technology_seal.svg/1024px-Rochester_Institute_of_Technology_seal.svg.png"
             alt="RIT Logo"
           />
           <img

@@ -13,10 +13,6 @@ const Communication = () => {
           >
             <BsLinkedin />
           </a>
-
-          <a href="#" target="_blank">
-            <BsDiscord />
-          </a>
         </div>
       </section>
     </>
