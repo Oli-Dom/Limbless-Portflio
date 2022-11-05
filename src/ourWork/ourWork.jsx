@@ -9,8 +9,8 @@ const ourWork = () => {
         </div>
         <div className="experience_container">
           <img
-            src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png"
-            alt="Nasa Logo"
+            src="https://images.squarespace-cdn.com/content/v1/5e5883174742486c5c56a526/1626472051547-JV3OYYJB4KZ47NTECHLO/ColorStack+logo.png"
+            alt="ColoStack Logo"
             className="experience"
           />
           <img
