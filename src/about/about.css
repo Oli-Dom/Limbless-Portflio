@@ -49,7 +49,7 @@ h2 {
 .image-container {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 .collegeLogo {
   width: 150px;

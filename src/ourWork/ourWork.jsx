@@ -9,11 +9,6 @@ const ourWork = () => {
         </div>
         <div className="experience_container">
           <img
-            src="https://images.squarespace-cdn.com/content/v1/5e5883174742486c5c56a526/1626472051547-JV3OYYJB4KZ47NTECHLO/ColorStack+logo.png"
-            alt="ColoStack Logo"
-            className="experience"
-          />
-          <img
             src="https://ga-core.s3.amazonaws.com/cms/files/files/000/002/174/original/AllStarCode.png"
             alt="ASC"
             className="experience"
