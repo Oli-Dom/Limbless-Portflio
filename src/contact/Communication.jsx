@@ -13,6 +13,9 @@ const Communication = () => {
           >
             <BsLinkedin />
           </a>
+          <a href="https://discord.gg/EMJG8axY" target="_blank">
+            <BsDiscord />
+          </a>
         </div>
       </section>
     </>
